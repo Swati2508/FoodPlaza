@@ -1,0 +1,41 @@
+2024-12-10 14:51:29,630 [Worker-6: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2024-12-10 14:52:21,061 [Worker-5: Importing Maven projects] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.foodplaza:food-plaza:0.0.1-SNAPSHOT @ C:\Users\Swati\OneDrive\Desktop\cdac juhu\Advanced Java\Project\backend\backend\backend-spring boot\pom.xml.
+2024-12-10 14:52:24,377 [Worker-5: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /food-plaza/src/main/java
+2024-12-10 14:52:24,379 [Worker-5: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /food-plaza/src/main/resources
+2024-12-10 14:52:24,386 [Worker-5: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /food-plaza/src/main/resources
+2024-12-10 14:52:24,394 [Worker-5: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /food-plaza/src/test/java
+2024-12-10 14:52:25,483 [Worker-5: Importing Maven projects] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 1 project(s) in 6 sec
+2024-12-10 14:52:31,738 [Worker-4: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-12-10 14:52:31,764 [Worker-4: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-12-10 14:52:31,768 [Worker-4: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Swati\OneDrive\Desktop\cdac juhu\Advanced Java\Project\backend\backend\backend-spring boot\src\test\resources
+2024-12-10 14:52:34,487 [Worker-4: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2024-12-10 14:52:35,157 [Worker-4: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.foodplaza:food-plaza:0.0.1-SNAPSHOT @ C:\Users\Swati\OneDrive\Desktop\cdac juhu\Advanced Java\Project\backend\backend\backend-spring boot\pom.xml.
+2024-12-10 14:52:36,234 [Worker-4: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /food-plaza/src/main/java
+2024-12-10 14:52:36,235 [Worker-4: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /food-plaza/src/main/resources
+2024-12-10 14:52:36,235 [Worker-4: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /food-plaza/src/main/resources
+2024-12-10 14:52:36,236 [Worker-4: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /food-plaza/src/test/java
+2024-12-10 14:52:36,764 [Worker-4: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 2 sec
+2024-12-10 14:52:40,624 [Worker-3: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-12-10 14:52:40,658 [Worker-3: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-12-10 14:52:40,662 [Worker-3: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Swati\OneDrive\Desktop\cdac juhu\Advanced Java\Project\backend\backend\backend-spring boot\src\test\resources
+2024-12-10 14:52:44,109 [main] INFO  o.e.m2e.actions.ExecutePomAction - Creating new launch configuration
+2024-12-10 14:52:54,778 [main] INFO  o.e.m2e.actions.ExecutePomAction - Creating new launch configuration
+2024-12-10 14:53:04,110 [Worker-0: Launching backend-spring boot (1)] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\Users\Swati\OneDrive\Desktop\cdac juhu\Advanced Java\Project\backend\backend\backend-spring boot
+2024-12-10 14:53:04,115 [Worker-0: Launching backend-spring boot (1)] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B clean compile -Dstyle.color=always
+2024-12-10 17:32:25,671 [Worker-5: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2024-12-10 17:32:42,171 [main] INFO  o.e.m2e.actions.ExecutePomAction - Creating new launch configuration
+2024-12-10 17:32:44,762 [Worker-11: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2024-12-10 17:32:45,878 [Worker-11: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.foodplaza:food-plaza:0.0.1-SNAPSHOT @ C:\Users\Swati\OneDrive\Desktop\cdac juhu\Advanced Java\Project\backend\backend\backend-spring boot\pom.xml.
+2024-12-10 17:32:47,364 [Worker-11: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /food-plaza/src/main/java
+2024-12-10 17:32:47,365 [Worker-11: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /food-plaza/src/main/resources
+2024-12-10 17:32:47,366 [Worker-11: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /food-plaza/src/main/resources
+2024-12-10 17:32:47,366 [Worker-11: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /food-plaza/src/test/java
+2024-12-10 17:32:48,051 [Worker-11: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 3 sec
+2024-12-10 17:32:53,096 [Worker-3: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-12-10 17:32:53,119 [Worker-3: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-12-10 17:32:53,125 [Worker-3: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Swati\OneDrive\Desktop\cdac juhu\Advanced Java\Project\backend\backend\backend-spring boot\src\test\resources
+2024-12-10 17:32:53,209 [Worker-7: Launching backend-spring boot (2)] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\Users\Swati\OneDrive\Desktop\cdac juhu\Advanced Java\Project\backend\backend\backend-spring boot
+2024-12-10 17:32:53,211 [Worker-7: Launching backend-spring boot (2)] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B clean compile -Dstyle.color=always
+2024-12-10 17:54:33,897 [Worker-17: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-12-10 17:54:33,898 [Worker-17: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-12-10 17:54:33,899 [Worker-17: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Swati\OneDrive\Desktop\cdac juhu\Advanced Java\Project\backend\backend\backend-spring boot\src\test\resources
